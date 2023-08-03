@@ -24,3 +24,7 @@ The input folder should contain .png frame files following this format:
 * `walking_2.png`
 * `attack_0.png`
 * `attack_1.png`
+
+#### Output 
+
+The script will output a `spritesheet.png` and a `spritesheet.json` file that can be loaded by the PIXI's asset loader.
