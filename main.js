@@ -1,12 +1,5 @@
 #!/usr/bin/env node
 
-// System dependencies: ImageMagick 6
-
-// node main.js <input_folder> <output_folder>
-
-// <folder>: folder with the .png frame files
-// image names should follow this format: <animation>_<number>.png
-
 https: var spritesheet = require("spritesheet-js");
 const fs = require("fs");
 
